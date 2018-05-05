@@ -1,0 +1,15 @@
+E:\C++_Projects\VSMyskin\VSMyskin\bin\Debug\VSMyskin.dll
+E:\C++_Projects\VSMyskin\VSMyskin\bin\Debug\VSMyskin.pdb
+E:\C++_Projects\VSMyskin\VSMyskin\bin\Debug\VSMyskin.pkgdef
+E:\C++_Projects\VSMyskin\VSMyskin\bin\Debug\VSMyskin.vsix
+E:\C++_Projects\VSMyskin\VSMyskin\bin\Debug\extension.vsixmanifest
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.csprojResolveAssemblyReference.cache
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.csproj.ResolveComReference.cache
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSPackage.resources
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\Company.VSMyskin.Resources.resources
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.csproj.GenerateResource.Cache
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.dll
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.pdb
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.pkgdef
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\VSMyskin.latest.pkgdef
+E:\C++_Projects\VSMyskin\VSMyskin\obj\Debug\extension.vsixmanifest

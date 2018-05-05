@@ -1,0 +1,4 @@
+C:\Users\gaol\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSMyskin\1.0\\VSMyskin.dll
+C:\Users\gaol\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSMyskin\1.0\\VSMyskin.pkgdef
+C:\Users\gaol\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSMyskin\1.0\\extension.vsixmanifest
+C:\Users\gaol\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\VSMyskin\1.0\\VSMyskin.pdb
